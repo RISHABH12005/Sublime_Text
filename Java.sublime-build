@@ -1,0 +1,5 @@
+{
+    "cmd": ["javac", "$file_name", "&&", "start", "cmd", "/k", "java", "$file_base_name"],
+    "path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath",
+    "shell": true
+}
